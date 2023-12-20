@@ -4,7 +4,7 @@
 Sistema de Gestion de Biblioteca de Jonay Contreras 
 - [x] Diagrama Casos de Uso
 - [ ] Diagrama Clases
-- [ ] Código
+- [ ] Código 
 ## Índice
 1. [Diagrama de casos de uso](#diagrama-de-casos-de-uso)
     - [Actores](#actores)
@@ -183,7 +183,7 @@ Sistema de Gestion de Biblioteca de Jonay Contreras
   | Post-condiciones  |   |  
   |  Requerimientos |   |
   |  Notas |  |
-  | Autor  | _JonayKB |
+  | Autor  | JonayKB |
   |Fecha | 20/12/2023 |
 
   |  Caso de Uso	CU12 | Gestionar Reserva  |
@@ -196,7 +196,7 @@ Sistema de Gestion de Biblioteca de Jonay Contreras
   | Post-condiciones  |   |  
   |  Requerimientos |   |
   |  Notas |  |
-  | Autor  | _JonayKB |
+  | Autor  | JonayKB |
   |Fecha | 20/12/2023 |
 
   |  Caso de Uso	CU13 | Ver informacion Reserva  |
@@ -209,7 +209,7 @@ Sistema de Gestion de Biblioteca de Jonay Contreras
   | Post-condiciones  |   |  
   |  Requerimientos |   |
   |  Notas |  |
-  | Autor  | _JonayKB |
+  | Autor  | JonayKB |
   |Fecha | 20/12/2023 |
 
   |  Caso de Uso	CU14 | Modificar informacion Reserva  |
@@ -222,7 +222,7 @@ Sistema de Gestion de Biblioteca de Jonay Contreras
   | Post-condiciones  |   |  
   |  Requerimientos |   |
   |  Notas |  |
-  | Autor  | _JonayKB |
+  | Autor  | JonayKB |
   |Fecha | 20/12/2023 |
 ## Diagrama de Clases
 
