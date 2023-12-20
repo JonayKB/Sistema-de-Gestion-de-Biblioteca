@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T15:09:39.219Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="PKBhzgrOP9m05DXvkSRC" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T15:34:47.663Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="7ywRGCDgv7umoJTS7Nbp" version="22.1.11" type="github">
   <diagram name="Página-1" id="m2GT25zmE1MhnsTuQUM3">
-    <mxGraphModel dx="948" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="558" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
         <mxCell id="r0mpR7VnaSpz1v_ZymHZ-51" value="&lt;b&gt;C.U.11: &lt;/b&gt;Realizar Devolucion&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1241" y="1750" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="r0mpR7VnaSpz1v_ZymHZ-52" value="&lt;b&gt;C.U.12: &lt;/b&gt;Ver informacion Reserva&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="r0mpR7VnaSpz1v_ZymHZ-52" value="&lt;b&gt;C.U.14: &lt;/b&gt;Ver informacion Reserva&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1780" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="r0mpR7VnaSpz1v_ZymHZ-53" value="&lt;b&gt;C.U.13: &lt;/b&gt;Modificar informacion Reserva&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
