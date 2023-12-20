@@ -3,8 +3,8 @@
 # Sistema-de-Gestion-de-Biblioteca
 Sistema de Gestion de Biblioteca de Jonay Contreras 
 - [x] Diagrama Casos de Uso
-- [] Diagrama Clases
-- [] Código
+- [ ] Diagrama Clases
+- [ ] Código
 ## Índice
 1. [Diagrama de casos de uso](#diagrama-de-casos-de-uso)
     - [Actores](#actores)
